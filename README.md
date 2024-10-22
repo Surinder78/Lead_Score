@@ -18,7 +18,7 @@ Approach / Steps to Follow
 
 
 #### Folder contain these files:
-1. Lead_Scoring_X_Edu_V5.ipynb : This file contains the code with all the necessary outcomes and explanation
-2. Case_Study_Lead_Scoring.pdf:  This file contains the slides to showcase the important outcomes 
-3. Case_Scoring_Summary: This document provides the summary of the case study 
-4. Case_Scoring_Questions: This document provides answers to the questions 
+1. **Lead_Scoring_X_Edu_V5.ipynb** : This file contains the code with all the necessary outcomes and explanation
+2. **Case_Study_Lead_Scoring.pdf**:  This file contains the slides to showcase the important outcomes 
+3. **Case_Scoring_Summary**: This document provides the summary of the case study 
+4. **Case_Scoring_Questions**: This document provides answers to the questions 
