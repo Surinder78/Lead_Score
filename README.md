@@ -7,14 +7,14 @@ There are some more problems presented by the company which your model should be
 Approach / Steps to Follow
 
 To achieve the goals outlined above, the following steps will be taken:
-Data Understanding: Load the dataset and get familiar with its structure (features, missing values, etc.).
-Data Cleaning: Handle missing values, outliers, and incorrect data types to prepare the data for analysis.
-Exploratory Data Analysis (EDA): Perform univariate and bivariate analysis to understand key relationships and insights from the data.
-Feature Engineering: Create or transform features to enhance the predictive power of the model.
-Model Building: Build a logistic regression model to predict lead conversion and assign lead scores.
-Model Evaluation: Evaluate the model using appropriate metrics such as accuracy, precision, recall, and the F1 score.
-Optimization: Optimize the model based on performance metrics and business requirements.
-Final Model: Present the final model and recommendations.
+1. Data Understanding: Load the dataset and get familiar with its structure (features, missing values, etc.).
+2. Data Cleaning: Handle missing values, outliers, and incorrect data types to prepare the data for analysis.
+3. Exploratory Data Analysis (EDA): Perform univariate and bivariate analysis to understand key relationships and insights from the data.
+4. Feature Engineering: Create or transform features to enhance the predictive power of the model.
+5. Model Building: Build a logistic regression model to predict lead conversion and assign lead scores.
+6. Model Evaluation: Evaluate the model using appropriate metrics such as accuracy, precision, recall, and the F1 score.
+7. Optimization: Optimize the model based on performance metrics and business requirements.
+8. Final Model: Present the final model and recommendations.
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 "# X_Edu_Lead_Scoring" 
